@@ -15,3 +15,7 @@ These are the insights I found from the data:
 - Most of the employees were recruited from Indeed.
 
 - Means salary of employees is $69,020
+
+
+  ![hr_subplots](https://github.com/user-attachments/assets/69949630-70e2-428b-8b37-1f53545ac6dc)
+
