@@ -19,3 +19,8 @@ These are the insights I found from the data:
 
   ![hr_subplots](https://github.com/user-attachments/assets/69949630-70e2-428b-8b37-1f53545ac6dc)
 
+
+  ![hr_piechart](https://github.com/user-attachments/assets/96491171-36fc-4cef-95be-2bb4d4376fcc)
+
+  
+
